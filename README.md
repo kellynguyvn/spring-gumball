@@ -1,12 +1,4 @@
-# spring-gumball ci/cd example
+# Lab 10
+## Make a change to the code and commit to main branch to trigger the action. Take screenhots of your result.
+<img width="1440" alt="Screen Shot 2023-05-15 at 3 17 55 AM" src="https://github.com/kellynguyvn/spring-gumball/assets/80297074/f1ed8943-ee21-4e7e-890f-bb22664aae4e">
 
-### This example demonstrates the following two GitHub Workflows.
-
-* https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-gradle
-
-* https://github.com/google-github-actions/setup-gcloud/tree/master/example-workflows/gke
-
-### Build Dependencies
-
-* Gradle 5.6
-* JDK 11
